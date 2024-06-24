@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srishti Kaura</h1>
-<img height="500" width="1200" align="center" alt="coding" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
+<img height="400" width="1200" align="center" alt="coding" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
 
   
 # 💫 About Me:
